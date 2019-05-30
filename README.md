@@ -179,7 +179,17 @@ Data was also scraped from two different websites to create three new datasets:
 Correct Usage - Scroller
 =========================
 
-Click [here](https://cchinchristopherj.github.io/Candidates-2020/) to access the final scroller
+Click [here](https://cchinchristopherj.github.io/Candidates-2020/) to access the final scroller.
+
+Initial Display
+-------------------------
+
+![scroller_main](https://github.com/cchinchristopherj/Candidates-2020/blob/master/screenshots/scroller_main.png)
+
+User Interactivity: Step 1
+-------------------------
+
+![scroller_1](https://github.com/cchinchristopherj/Candidates-2020/blob/master/screenshots/scroller_1.png)
 
 Correct Usage - Web scraper
 =========================
