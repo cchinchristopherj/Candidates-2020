@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>2020 Democratic Presidential Candidates</title>
+        <link rel="stylesheet" href="styles.css">
+        <!-- Load in d3 libraries -->
+        <script type="text/javascript" src="http://d3js.org/d3.v4.min.js"></script>
+        <script src="//d3js.org/d3-scale-chromatic.v0.3.min.js"></script>
+    </head>
+    <body>
+        <div class='container'>
+            <!-- Title -->
+            <div id='scroll_title'>2020 Democratic Presidential Candidates</div>
+            <div id='graphic'>
+                <!-- "sections" div holds text content -->
+                <div id='sections'>
+                    <!-- Voter Choice Percentages section -->
+                    <section class='step'>
+                        <div class="title">Voter Choice Percentages</div>
+                        Joe Biden, Bernie Sanders, and 
+                        Elizabeth Warren are the current top 
+                        three choices for Democratic primary 
+                        voters
+                    </section>
+                    <!-- Favorability Percentages section -->
+                    <section class='step'>
+                        <div class="title">Favorability Percentages</div>
+                        Biden, Sanders, and Warren are also the
+                        most favorable candidates, with voters
+                        having no recognition or opinion of 
+                        the majority of other candidates. 
+                    </section>
+                    <!-- State Ties section -->
+                    <section class='step'>
+                        <div class="title">State Ties</div>
+                        Candidates have ties to states around
+                        the country, with a large proportion
+                        having experience working in the 
+                        Northeastern US, Texas, and California.
+                        (The map displays the electoral college
+                        results for the 2016 presidential election)
+                    </section>
+                    <!-- Background/Experience section -->
+                    <section class='step'>
+                        <div class="title">Background/Experience</div>
+                        Regarding experience, the vast majority
+                        of candidates have political backgrounds, 
+                        followed by those with entrepreneurial, 
+                        legal, and military expertise.
+                    </section>
+                    <!-- Stances on Critical Issues section -->
+                    <section class='step'>
+                        <div class='title'>Stances on Critical Issues</div>
+                        Despite sharing many core values, 
+                        candidates lie on a wide spectrum 
+                        of opinions with regard to solving
+                        the country's most critical issues.
+                    </section>
+                    <!-- Key Criticisms section -->
+                    <section class='step'>
+                        <div class='title'>Key Criticisms</div>
+                        All candidates have faced criticism for
+                        past stances or conduct, inexperience/
+                        anonymity, etc. all of which will play 
+                        a vital role in final voter selection
+                    </section>
+                </div>
+                <!-- "vis" div holds visualization component -->
+                <div id='vis'>
+                </div>
+            </div>
+        </div>
+        <script src="sections.js"></script>
+        <script src="scroller.js"></script>
+    </body>
+</html>
