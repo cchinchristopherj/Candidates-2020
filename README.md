@@ -12,6 +12,21 @@ Due to the wide variety in type and topic of relevant data, it is crucial to suc
 5. Stances on Critical Issues (Hierarchical Bubble Chart)
 6. Key Criticisms (Expandable Bubble Chart)
 
+Click [here](https://cchinchristopherj.github.io/Candidates-2020/) to access the final scroller
+=========================
+
+Initial Scroller Display
+-------------------------
+
+![scroller_main](https://github.com/cchinchristopherj/Candidates-2020/blob/master/screenshots/scroller_main.png)
+
+Display Upon Scrolling Down to the Next Section
+-------------------------
+
+![scroller_1](https://github.com/cchinchristopherj/Candidates-2020/blob/master/screenshots/scroller_1.png)
+
+Let's now go through each section of the scroller individually to analyze each accompanying visualization in more detail:
+
 Voter Choice Percentages
 =========================
 
@@ -175,21 +190,6 @@ Data was also scraped from two different websites to create three new datasets:
 - Names of all Democratic Presidential Candidates: [What you need to know about the 2020 presidential candidates, in under 500 words](https://www.axios.com/2020-presidential-election-candidate-profiles1552432119-facfee57-8089-4f14-bbdf-dc44ffa0ea4a.html)
 - Key Facts, Key Issues, Key Criticisms for all Candidates: [What you need to know about the 2020 presidential candidates, in under 500 words](https://www.axios.com/2020-presidential-election-candidate-profiles1552432119-facfee57-8089-4f14-bbdf-dc44ffa0ea4a.html)
 - Voter Choice and Favorability Percentages for all Candidates: [The State of the Democratic Primary](https://morningconsult.com/2020-democratic-primary/)
-
-Correct Usage - Scroller
-=========================
-
-Click [here](https://cchinchristopherj.github.io/Candidates-2020/) to access the final scroller.
-
-Initial Display
--------------------------
-
-![scroller_main](https://github.com/cchinchristopherj/Candidates-2020/blob/master/screenshots/scroller_main.png)
-
-User Interactivity: Step 1
--------------------------
-
-![scroller_1](https://github.com/cchinchristopherj/Candidates-2020/blob/master/screenshots/scroller_1.png)
 
 Correct Usage - Web scraper
 =========================
