@@ -1844,6 +1844,9 @@ var issuesFlag = 0;
 // image, circle, or text) and ending with this common integer
 // identifier
 var circle_text_id = 0;
+// Radius of the layout for the "Zoom" visualization and grid 
+// for the "Grid" Visualization
+var r = 500;
 // zoom_x and zoom_y are the modifiable domain and range, 
 // respectively, used to zoom into nodes of the "Zoom" 
 // Visualization. Initialize them here:
@@ -1954,8 +1957,6 @@ var forceCollide_grid = d3.forceCollide(function(d){
 // enlarges to display information about the candidate 
 // corresponding to the node
 var focusedNode;
-// Radius of the grid for the "Grid" Visualization
-var r = 500;
 
 // Functions for "Key Criticisms" section
 /**
