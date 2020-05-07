@@ -12,7 +12,7 @@ Due to the wide variety in type and topic of relevant data, it is crucial to suc
 5. Stances on Critical Issues (Hierarchical Bubble Chart)
 6. Key Criticisms (Expandable Bubble Chart)
 
-Click [here](https://cchinchristopherj.github.io/Candidates-2020/) to access the final scroller
+[Final Scroller](https://cchinchristopherj.github.io/Candidates-2020/)
 =========================
 
 Initial Scroller Display
